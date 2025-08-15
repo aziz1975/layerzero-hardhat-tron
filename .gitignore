@@ -18,8 +18,13 @@ ignition/deployments/chain-31337
 
 # Hardhat Deploy
 deployments/localhost/
+deployments/nile/
+deployments/shasta/
 deployments/hardhat/
 deployments/**/solcInputs/   # optional: keep if you use them for verification
 
 # Hardhat Ignition runtime state
 ignition/deployments/
+artifacts-tron/
+cache/
+cache-tron/

@@ -12,7 +12,6 @@
   "devDependencies": {
     "@layerzerolabs/hardhat-deploy": "^0.11.45-lz.4",
     "@layerzerolabs/hardhat-tron": "^3.0.124",
-    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
     "dotenv": "^17.2.1",
     "hardhat": "^2.26.3"
   }
