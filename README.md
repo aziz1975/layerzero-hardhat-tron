@@ -21,7 +21,11 @@ This project demonstrates deploying and testing a simple smart contract on the T
 └── .env                           # Private key & TronGrid API key
 ```
 
-## Installation
+## Setup
+Clone this repository and install dependencies:
+```bash
+git clone https://github.com/aziz1975/layerzero-hardhat-tron.git
+```
 
 ```bash
 npm install
