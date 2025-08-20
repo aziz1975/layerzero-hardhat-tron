@@ -14,5 +14,8 @@
     "@layerzerolabs/hardhat-tron": "^3.0.124",
     "dotenv": "^17.2.1",
     "hardhat": "^2.26.3"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0"
   }
 }
